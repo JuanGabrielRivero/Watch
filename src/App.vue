@@ -5,3 +5,5 @@ import TimeWatch from "./components/TimeWatch.vue";
 <template>
   <TimeWatch />
 </template>
+
+<style></style>
